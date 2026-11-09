@@ -1,1 +1,1 @@
-# Course-Selection-Assistance
+# Study-Information-Assistance
