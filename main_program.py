@@ -144,6 +144,9 @@ while True:
 
     else:
         print("Please enter 1, 2, 3, or 4.")
+
+
+
 print("\n")
 print("Study Information Assistance\n")
 print("Course Information Inquiry(1)\n")
